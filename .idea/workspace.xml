@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb8c731-2279-46cb-b551-69a8a7c6dc2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="concensus" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WleQitwXkjDiityjdArDLjsngt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="concensus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="consensus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concensus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consensus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.consensus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb8c731-2279-46cb-b551-69a8a7c6dc2e" name="Default Changelist" comment="" />
+      <created>1579728594394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579728594394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579796740852">
+      <screen x="0" y="0" width="1714" height="1113" />
+    </state>
+    <state x="-1506" y="447" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1714.1113/-1920.263.1920.1050@-1920.263.1920.1050" timestamp="1579728725540" />
+    <state x="370" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1714.1113@0.0.1714.1113" timestamp="1579796740852" />
+    <state x="-1180" y="547" key="FileChooserDialogImpl" timestamp="1579728672371">
+      <screen x="-1920" y="263" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="547" key="FileChooserDialogImpl/0.0.1714.1113/-1920.263.1920.1050@-1920.263.1920.1050" timestamp="1579728672371" />
+    <state width="1693" height="306" key="GridCell.Tab.0.bottom" timestamp="1579800984813">
+      <screen x="0" y="0" width="1714" height="1113" />
+    </state>
+    <state width="1693" height="306" key="GridCell.Tab.0.bottom/0.0.1714.1113@0.0.1714.1113" timestamp="1579800984813" />
+    <state width="1693" height="306" key="GridCell.Tab.0.center" timestamp="1579800984813">
+      <screen x="0" y="0" width="1714" height="1113" />
+    </state>
+    <state width="1693" height="306" key="GridCell.Tab.0.center/0.0.1714.1113@0.0.1714.1113" timestamp="1579800984813" />
+    <state width="1693" height="306" key="GridCell.Tab.0.left" timestamp="1579800984813">
+      <screen x="0" y="0" width="1714" height="1113" />
+    </state>
+    <state width="1693" height="306" key="GridCell.Tab.0.left/0.0.1714.1113@0.0.1714.1113" timestamp="1579800984813" />
+    <state width="1693" height="306" key="GridCell.Tab.0.right" timestamp="1579800984813">
+      <screen x="0" y="0" width="1714" height="1113" />
+    </state>
+    <state width="1693" height="306" key="GridCell.Tab.0.right/0.0.1714.1113@0.0.1714.1113" timestamp="1579800984813" />
+    <state x="-1457" y="434" key="SettingsEditor" timestamp="1579728677830">
+      <screen x="-1920" y="263" width="1920" height="1050" />
+    </state>
+    <state x="-1457" y="434" key="SettingsEditor/0.0.1714.1113/-1920.263.1920.1050@-1920.263.1920.1050" timestamp="1579728677830" />
+  </component>
+</project>

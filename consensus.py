@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  9 15:14:52 2015
+Created on Tue May 9 15:14:42 2015
 @author: Robbie Cunningham
 """
 
@@ -51,17 +51,17 @@ N=100
 #which graph?
 graph = 'path'
 #final time
-T=10
+T=7
 #time incriment
-j=.2
+j=.1
 #optimality gain
-a=.4
+a=.1
 #consensus gain
-b=1
+b=.3
 #saturation bound (Delta)
-D=7
+D=100
 #dimension, either 2 or 3
-m=2
+m=3
 
 
 
